@@ -5,7 +5,7 @@ Easily estimate a water bill across any part of California with OWRS compliant w
 
 Develop a bill calculator leveraging Open Water Rate Specification (OWRS) data. This tool would allow users to put in their address and water use for a given month and see the estimated bill for that month. Extensions include comparing that to other water utilities. 
 
-ARGO team lead: Christopher Tull ( chris@argolabs.org ) 
+ARGO team lead: Christopher Tull
 
 ## Progress to Date
 
